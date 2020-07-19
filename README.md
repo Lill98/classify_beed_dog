@@ -7,4 +7,4 @@ the code was run by Google Colab.
 ##Instruction
 1. Download data from here: [link](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip), Unzip the folder and place it in the repo, at location path/to/dog-project/data/dogImages.
 2. Download [VGG-16 bottleneck features](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/DogVGG16Data.npz) for the dog dataset. Place it in the repo, at location path/to/dog-project/bottleneck_features.
-
+thanks GauravKParmar for inspiring me to write this git. you can check original (git)[https://github.com/GauravKParmar/Dog-Breed-Classifier]
